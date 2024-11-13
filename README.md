@@ -9,7 +9,7 @@ Este projeto foi desenvolvido para a matéria de **Tópicos Avançados** no Cent
 Primeiro, clone o repositório para sua máquina local usando o Git:
 
 ```
-git clone https://github.com/MateusFKrinski/Generative-AI.git
+git clone -b master https://github.com/MateusFKrinski/Generative-AI.git
 cd Generative-AI
 ```
 

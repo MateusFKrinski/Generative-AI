@@ -13,8 +13,6 @@ async function handleChatFlow(userMessage: string) {
     }
   }
 
-  console.log(phraseEnglish);
-
   const closeRequest = await validateState([
     {
       role: 'system',
